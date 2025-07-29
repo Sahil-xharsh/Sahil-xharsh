@@ -94,4 +94,4 @@ Hi there, I'm Sahil an avid learner trying to adapt fast and build meaningful th
 
 ## 📫 **Reach out & Connect here!**
 [![Email](https://img.shields.io/badge/Email-Me-white?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:sahilharsh27@gmail.com)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-white?style=for-the-badge&logo=linkedin&logoColor=0A66C2)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-h-598b02288/)
