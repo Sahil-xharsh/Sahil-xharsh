@@ -1,5 +1,5 @@
 </h1>
-<h3 align="center">Aspiring Cloud AI/ML & Gen AI Engineer || MLOps Enthusiast || AWS / Azure / GCP</h3>
+<h3 align="center">Aspiring Cloud AI/ML & Gen AI Engineer || MLOps || AWS / Azure / GCP</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1D9BF0&center=true&vCenter=true&width=600&height=50&lines=Cloud+%2B+AI%2FML+%2B+GenAI+Engineer+in+Progress;Building+Cloud-Native+ML+Solutions;Learning+the+Hard+Way+%26+Relentlessly!" alt="Typing SVG" />
