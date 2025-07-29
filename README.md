@@ -12,7 +12,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" style="margin-right:10px"/> About Me
 </h2>
 
-Hi there, I'm Sahil an avid learner who adapts fast and build meaningful things.  
+Hi there, I'm Sahil an avid learner trying to adapt fast and build meaningful things.
 **Believing Adaptability is Everything!!**
 
 ⚙️ Skills: AWS, Azure, GCP, Vertex AI SDK, SageMaker SDK, Azure ML SDK, Edge Impulse / TensorFlow Lite for Edge AI.
@@ -94,4 +94,4 @@ Hi there, I'm Sahil an avid learner who adapts fast and build meaningful things.
 
 ## 📫 **Reach out & Connect here!**
 [![Email](https://img.shields.io/badge/Email-Me-white?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:sahilharsh27@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-white?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/sahilharsh)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-white?style=for-the-badge&logo=linkedin&logoColor=0A66C2)
