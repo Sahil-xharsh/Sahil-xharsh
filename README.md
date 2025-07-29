@@ -35,14 +35,14 @@ Hi there, I'm Sahil an avid learner who thrives on adapting fast and building me
 
 ## 🛠️ Tools & Technologies
 
-☁️ Cloud Platforms - 
+☁️  **Cloud Platforms** -
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 
-🚀 Deployment & MLOps -
+🚀  **Deployment & MLOps** - 
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2D3748?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -50,20 +50,20 @@ Hi there, I'm Sahil an avid learner who thrives on adapting fast and building me
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 
-🤖 AI / Machine Learning - 
+🤖 **AI / Machine Learning** - 
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 
-💻 Programming Languages -
+💻 **Programming Languages** -
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
-🌐 Frontend Development -
+🌐 **Frontend Development** -
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -71,16 +71,16 @@ Hi there, I'm Sahil an avid learner who thrives on adapting fast and building me
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
-⚡ Static Site Generators - 
+⚡ **Static Site Generators** - 
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
-🎨 UI / UX Design -
+🎨 **UI / UX Design** -
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
 
-🎬 Software (Video & Media Editing) - 
+🎬 **Software (Video & Media Editing)** - 
 
 ![Adobe After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
@@ -92,6 +92,6 @@ Hi there, I'm Sahil an avid learner who thrives on adapting fast and building me
 
 
 
-## 📫 Reach out & Connect here!
+## 📫 **Reach out & Connect here!**
 [![Email](https://img.shields.io/badge/Email-Me-white?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:sahilharsh27@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-white?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/sahilharsh)
