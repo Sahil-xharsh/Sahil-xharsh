@@ -15,19 +15,19 @@
 Hi there, I'm Sahil an avid learner who thrives on adapting fast and building meaningful things.  
 **Believing Adaptability is Everything!!**
 
-- ⚙️ Skills: AWS, Azure, GCP, Vertex AI SDK, SageMaker SDK, Azure ML SDK, Edge Impulse / TensorFlow Lite for Edge AI.
-- 👁️‍🗨️ Mission: Solve problems that matter efficiently and independently.
+⚙️ Skills: AWS, Azure, GCP, Vertex AI SDK, SageMaker SDK, Azure ML SDK, Edge Impulse / TensorFlow Lite for Edge AI.
+👁️‍🗨️ Mission: Solve problems that matter efficiently and independently.
 
 
-- ◽[2025] - Currently diving deep into **Cloud Computing (AWS, Azure)**, **AI/ML**, and **Generative AI**, with a focus on **deployment** and **MLOps**.
+◽[2025] - Currently diving deep into **Cloud Computing (AWS, Azure)**, **AI/ML**, and **Generative AI**, with a focus on **deployment** and **MLOps**.
 
 ### 🕰️ Past Experiences
 
-- ◽[2024] - Built intermediate-level expertise in **Cloud (AWS, Azure)**, **Vertex AI SDK**, **SageMaker SDK**, **Azure ML SDK**, **Edge Impulse**, **TensorFlow Lite**.
-- ◽[2023] - Front-end developer: **CSS**, **HTML**, **JavaScript**, **React.js**.
-- 🚫 [2024] - Left freelancing in UI/UX & video editing to focus on Cloud + AI/ML.
-- ▫️[2022] - **Motion Graphic Designer**, **UX/UI Designer** (40+ designs, few being freelance paid projects for clients).
-- ▫️[2021] - **Experienced Video Editor** (6000+ hours, AE, PR, Audition).
+- [2024] - Built intermediate-level expertise in **Cloud (AWS, Azure)**, **Vertex AI SDK**, **SageMaker SDK**, **Azure ML SDK**, **Edge Impulse**, **TensorFlow Lite**.
+- [2023] - Front-end developer: **CSS**, **HTML**, **JavaScript**, **React.js**.
+- [2024] - Left freelancing in UI/UX & video editing to focus on Cloud + AI/ML.
+- [2022] - **Motion Graphic Designer**, **UX/UI Designer** (40+ designs, few being freelance paid projects for clients).
+- [2021] - **Experienced Video Editor** (6000+ hours, AE, PR, Audition).
 
 ---
 
