@@ -12,23 +12,27 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" style="margin-right:10px"/> About Me
 </h2>
 
-Hi there, I'm Sahil an avid learner trying to adapt fast and build meaningful things.
-**Believing Adaptability is Everything!!**
+<h3 align="left"> Hi there, I'm Sahil harsh..</h3>
 
-◽[2025] - Currently learning and building skills as Cloud-Native MLOps + GenAI Engineer (AI/ML) with strong foundational understanding of AI/ML workflows, modeling and expertise in scalable ML pipelines, LLM deployment (RAG, PEFT, vLLM), cloud-native (Kubernetes, Terraform, CI/CD) and model observability using tools like LangFuse, MLflow, and Weights & Biases.
+<!-- Introduction -->
+◽ **[2025]** - Currently learning and building skills as Cloud-Native MLOps + GenAI Engineer (AI/ML) with strong foundational understanding of 𝗔𝗜/𝗠𝗟 𝘄𝗼𝗿𝗸𝗳𝗹𝗼𝘄𝘀, 𝗺𝗼𝗱𝗲𝗹𝗶𝗻𝗴 and expertise in scalable 𝗠𝗟 𝗽𝗶𝗽𝗲𝗹𝗶𝗻𝗲𝘀, 𝗟𝗟𝗠 𝗱𝗲𝗽𝗹𝗼𝘆𝗺𝗲𝗻𝘁 (RAG, PEFT, vLLM), cloud-native tools (Kubernetes, Terraform, CI/CD), and model observability using 𝗟𝗮𝗻𝗴𝗙𝘂𝘀𝗲, 𝗠𝗟𝗳𝗹𝗼𝘄, 𝗮𝗻𝗱 𝗪𝗲𝗶𝗴𝗵𝘁𝘀 & 𝗕𝗶𝗮𝘀𝗲𝘀.
 
-◼️ Current skills:Cloud (AWS, Azure), ML Services (SageMaker SDK, Azure ML SDK), Edge AI deployment using TensorFlow Lite & Edge Impulse.
+◼️**Current skills**: Cloud (AWS, Azure), ML Services (SageMaker SDK, Azure ML SDK), Edge AI deployment using TensorFlow Lite & Edge Impulse.
 
-◼️ Goal: To Fully Understand My Field And Contibute To The Development Of Safe AGI someday!
+◼️**Goal**: To Fully Understand My Field And Contibute To The Development Of Safe AGI someday!
 
 
-###  Past Experiences
+<h3 align="left"> Past Experiences:</h3>
 
-- [2024] - Built intermediate-level expertise in **Cloud (AWS, Azure)**, **Vertex AI SDK**, **SageMaker SDK**, **Azure ML SDK**, **Edge Impulse**, **TensorFlow Lite**.
-- [2024 start] - At the start of 2024, I Left freelancing in UI/UX & video editing to focus on Cloud, MLOps, AI/ML/GEN AI. 
-- [2023] - Front-end developer: **JavaScript**, **HTML5**, **CSS3**, **TailwindCSS**, **Typescript**, **React.js**, **Next.js**.
-- [2022] - **Motion Graphic Designer**, **UX/UI Designer** (20+ designs, few being freelance paid projects for clients).
-- [2021] - **Experienced Video Editor** (6000+ hours, AE, PR, Audition).
+- **[2024]** - Built intermediate-level expertise in **Cloud (AWS, Azure)**, **Vertex AI SDK**, **SageMaker SDK**, **Azure ML SDK**, **Edge Impulse**, **TensorFlow Lite**.
+- **[2024 start]** - At the start of 2024, I Left freelancing in UI/UX & video editing to focus on Cloud, MLOps, AI/ML/GEN AI. 
+- **[2023]** - Front-end developer: **JavaScript**, **HTML5**, **CSS3**, **TailwindCSS**, **Typescript**, **React.js**, **Next.js**.
+- **[2022]** - **Motion Graphic Designer**, **UX/UI Designer** (20+ designs, few being freelance paid projects for clients).
+- **[2021]** - **Experienced Video Editor** (6000+ hours, AE, PR, Audition).
+
+---
+
+
 
 ---
 
