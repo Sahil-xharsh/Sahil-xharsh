@@ -1,19 +1,15 @@
 </h1>
 <h3 align="center"> AI/ML | Gen AI | Exploring MLOps
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1D9BF0&center=true&vCenter=true&width=750&height=50&lines=AI+Engineer;Building+AI+applications+and+workflows;Working+on+generative+AI+and+LLM-based+applications!" alt="Typing SVG" />
-</p>
-
 ---
 
 
 <h3 align="left">
-   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="23px" style="margin-right:30px"/> Hi there, I'm Sahil harsh,
+   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="23px" style="margin-right:30px"/> Hi there, 
 </h3>
 
 
-an Artificial Intelligence Engineer building AI applications and workflows, With my foundational knowledge in machine learning and cloud platforms. Focused on creating scalable, practical systems.
+I'm Sahil, an Artificial Intelligence Engineer building AI applications and workflows.
 
 Currently working on generative AI and LLM-based applications (RAG, agents), while advancing skills in machine learning engineering, deep learning, MLOps, and multimodal AI.
 
@@ -39,6 +35,7 @@ Currently working on generative AI and LLM-based applications (RAG, agents), whi
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
 
 ---
 
@@ -52,10 +49,11 @@ Currently working on generative AI and LLM-based applications (RAG, agents), whi
 
 ---
 
-**API & Database** -
+**API, Tools & Database** -
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-ffffff?style=for-the-badge&logo=mysql&logoColor=black)
+![uv](https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logo=uv&logoColor=white)
 
 ---
  
