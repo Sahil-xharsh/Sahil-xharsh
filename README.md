@@ -5,20 +5,22 @@
 
 
 <h3 align="left">
-   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="23px" style="margin-right:30px"/> Hi there, 
+   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="23px" style="margin-right:30px"/> Hi there, I'm Sahil, 
 </h3>
 
 
-I'm Sahil, an Artificial Intelligence Engineer building AI applications and workflows.
+An 𝗔𝗜/𝗠𝗟 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 building depth in the 𝗟𝗟𝗠 and 𝗠𝘂𝗹𝘁𝗶𝗺𝗼𝗱𝗮𝗹 𝘀𝗽𝗮𝗰𝗲 through model fine-tuning, RAG, agents, inference, and evaluation. Bridging the gap between ML research and production by combining engineering, deployment, and MLOps.
 
-Currently working on generative AI and LLM-based applications (RAG, agents), while advancing skills in machine learning engineering, deep learning, MLOps, and multimodal AI.
+Where I’ve been working is Building and maintaining LLM-based applications, fine-tuning and adapting models using LoRA and PEFT-style methods. Covering the full lifecycle around them: deployment, governance, security and evaluation. On the classical ML side, working with XGBoost and tabular modeling. Across all of it the focus is on models that don’t just work in a demo but actually ship.
+
+And I'm continuously sharpening my skills across deep learning and machine learning. 
 
 
 <h3 align="left"> Past:</h3>
 
-- **Front-end developer:** *JavaScript*, *HTML5*, *CSS3*, *TailwindCSS*, *Typescript*, *React.js*, *Next.js* - (Wanted to build my own portfolio)
-- **Motion Graphic Designer**, **UX/UI Designer** - (Freelancing).
-- **Experienced Video Editor With** *6000+ hours, AE, PR, Audition* - (Freelancing & Full time - 6 Months at an Agency).
+- 𝗖𝗹𝗼𝘂𝗱 (AWS, GCP and SDKs)
+- CSS, HTML, TailwindCSS, JavaScript, Next.js and React.js.
+- An 𝗨𝗫 𝗜𝗻𝘁𝗲𝗿𝗮𝗰𝘁𝗶𝗼𝗻 𝗱𝗲𝘀𝗶𝗴𝗻𝗲𝗿 and 𝗨𝗜 𝗱𝗲𝘀𝗶𝗴𝗻𝗲𝗿 (Adobe Xd and Figma) - Freelancing.
 
 ---
 
@@ -33,9 +35,14 @@ Currently working on generative AI and LLM-based applications (RAG, agents), whi
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
+![NLP](https://img.shields.io/badge/NPL-2563EB?style=for-the-badge)
+![Large Language Models](https://img.shields.io/badge/LLMs-7C3AED?style=for-the-badge)
+![Multimodal AI](https://img.shields.io/badge/Multimodal_AI-0891B2?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![PEFT](https://img.shields.io/badge/PEFT-2563EB?style=for-the-badge&logo=huggingface&logoColor=white)
+![LoRA/QLoRA](https://img.shields.io/badge/LoRA%2FQLoRA-7C3AED?style=for-the-badge)
 
 ---
 
