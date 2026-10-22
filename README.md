@@ -1,5 +1,5 @@
 </h1>
-<h3 align="center"> AI/ML | Gen AI | Exploring MLOps
+<h3 align="center"> AI Engineer | LLM & Multimodal | MLOps
 
 ---
 
